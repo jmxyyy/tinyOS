@@ -1,0 +1,1 @@
+/mnt/myos/os/target/riscv64gc-unknown-none-elf/release/os: /mnt/myos/os/src/console.rs /mnt/myos/os/src/entry.asm /mnt/myos/os/src/lang_items.rs /mnt/myos/os/src/logging.rs /mnt/myos/os/src/main.rs /mnt/myos/os/src/sbi.rs
